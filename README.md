@@ -1,1 +1,1 @@
-Hello FemmeHacks
+Welcome to FemmeHacks & git workshop
